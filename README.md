@@ -129,28 +129,6 @@ response = requests.post('https://your-api-endpoint.com/predict',
 prediction = response.json()['predicted_price']
 
 
-## 📁 Project Structure
-
-
-GoldPredict AI/
-├── src/
-│   ├── models/           # ML model implementations
-│   ├── data/            # Data processing scripts
-│   ├── utils/           # Utility functions
-│   └── api/             # API endpoints
-├── static/
-│   ├── css/             # Stylesheets
-│   ├── js/              # JavaScript files
-│   └── assets/          # Images and icons
-├── templates/           # HTML templates
-├── data/               # Dataset files
-├── notebooks/          # Jupyter notebooks for analysis
-├── tests/              # Unit tests
-├── requirements.txt    # Python dependencies
-├── app.py             # Main application file
-└── README.md          # This file
-
-
 ## 🤝 Contributing
 
 We welcome contributions to improve GoldPredict AI! Here's how you can help:
