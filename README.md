@@ -305,7 +305,7 @@ SOFTWARE.
 - **💡 Feature Requests**: [GitHub Discussions](https://github.com/Omm579/GoldPredict-AI/discussions)
 
 ### Connect With Me
-- **🧑🏻‍💻Developer**: [Om Debasish]
+- **🧑🏻‍💻Developer**: Om Debasish
 - **📧 Email**: omdebasish.2006@gmail.com
 - **🐦 GitHub**: [GitHub Profile](https://github.com/Omm579)
 - **💼 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/om-debasish-07ba92321/)
