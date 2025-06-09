@@ -219,7 +219,7 @@ Content-Type: application/json
 ### Netlify Deployment (Current)
 The application is currently deployed on Netlify with automatic builds from the main branch.
 
-**Live URL**: [https://meek-conkies-61f710.netlify.app/](https://meek-conkies-61f710.netlify.app/)
+**Live URL**: [https://preeminent-druid-c2806f.netlify.app/](https://preeminent-druid-c2806f.netlify.app/)
 
 
 ## 🤝 Contributing
