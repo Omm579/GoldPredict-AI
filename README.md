@@ -300,7 +300,6 @@ SOFTWARE.
 ## 📞 Contact
 
 ### Getting Help
-- **📖 Documentation**: [Download the document from here](https://drive.google.com/drive/folders/1x_zv_awLfdAne-5dZ8I3OnSToTMKcQbL?usp=drive_link)
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/Omm579/GoldPredict-AI/issues)
 - **💡 Feature Requests**: [GitHub Discussions](https://github.com/Omm579/GoldPredict-AI/discussions)
 
